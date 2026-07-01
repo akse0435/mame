@@ -17625,6 +17625,9 @@ decmate3
 @source:dec/dectalk.cpp
 dectalk
 
+@source:dec/dtpc.cpp
+dtpc
+
 @source:dec/decwritr.cpp
 la120
 
